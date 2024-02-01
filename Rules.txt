@@ -1,0 +1,10 @@
+Rules for Data Structure and Algorithm
+
+
+1 => Consistency is the key to Success
+2 => Never Give up.
+3 => If you demotivated by seeing people solve many problems on leetcode and you dont have.It may possible they learn DSA in 4 months and you learn DSA in 8 months.It means you are very very good form them.
+4 => Never waste much time on one problem.If you dont solve the problem in 3-4 hours.Read the solution of others people.It might help you.
+5 => Only solve 20-25 problems of an specific function.
+6 => Also learn DSA untill you get the job in Google or any big Company.
+7 => Also when you learning DSA and solve the problems.Keep one thing in mind that learn from only one source and when you learn properly and starting solving problems.Then you might go to different platforms and also different sources
