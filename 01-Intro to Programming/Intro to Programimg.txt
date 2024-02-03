@@ -17,3 +17,9 @@ Object like " 10 " stores in Heap memory.
 
 	
 Note :  " a " variable store in Stack memory pointing out the Object " 10 " in Heap memory.
+
+
+Garbage Value : When no refrence variable pointing out the object means an object store in memory but no refrence variable pointing out this object.
+
+Then it is called Garbage Vale and it is automatically removed from the memory when the garbage value hits.
+
