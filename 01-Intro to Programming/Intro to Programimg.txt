@@ -1,0 +1,19 @@
+There are two types of memory.
+
+1- Stack
+2- Heap
+
+a = 10;
+
+Where " a " is called Refrence Variable   and  " 10 " is called object
+
+1- Stack
+
+Refrence Variable like " a " stores in Stack memory.
+
+2- Heap
+
+Object like " 10 " stores in Heap memory.
+
+	
+Note :  " a " variable store in Stack memory pointing out the Object " 10 " in Heap memory.
