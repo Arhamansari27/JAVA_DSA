@@ -6,17 +6,18 @@ This repository contains JAVA code that I have written to solve DSA problems on 
 The Repository is divided into several sections that cover the following topics:
 
 <ul>  
-    <li>Introduction to JAVA </li>
+    <li>Introduction to Programming </li>
+    <li>Introduction to JAVA</li>
     <li>Variables and Data Types </li>
     <li>Control Structures (if-else, loops, etc.)</li>
     <li>Bitwise Operators,Operator Precedence & Variable Scoping</li>
     <li>Functions</li>
     <li>Arrays and Strings</li>
-    <li>Pointers and References</li>
+    <li>Linear and Binary Search</li>
+    <li>Sorting and Patterns</li>
+    <li>Recursion and Complexity</li>
+    <li>LinkedList , Stacks and Trees</li>
     <li>OOP Concepts (classes, objects, inheritance, polymorphism, etc.)</li>
-    <li>File Input/Output</li>
-    <li>Exception Handling</li>
-    <li>Standard Template Library (STL) </li>
 
 </ul> 
 
