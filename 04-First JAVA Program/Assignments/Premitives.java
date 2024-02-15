@@ -9,7 +9,7 @@ public class Premitives{
         float decimalvalues = 32.553f;
         double longdecimalvalues = 341343.341413;
         long longintegeValues = 849712384L;
-        boolean check = false;
+        boolean check = false; 
 
         // String is actually non-premitive
 
