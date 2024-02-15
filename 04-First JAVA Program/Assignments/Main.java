@@ -4,9 +4,21 @@
 // Note : All the functions inside the class is known as methods. 
 
 
+import java.util.Scanner;
+
 public class Main {
     public static void main(String [] args){
-        System.out.println("Hello World!");
-        System.out.println("Hy My Name is Muhammad Arham");
+
+        // 1->  How to show output in JAVA
+
+        // System.out.print(18);
+        // System.out.println("Hy My Name is Muhammad Arham");
+
+
+        // 2->  How to get Input in JAVA
+        
+        Scanner input = new Scanner(System.in);
+        
     }
-}
+}   
+
