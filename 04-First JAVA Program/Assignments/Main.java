@@ -4,6 +4,8 @@
 // Note : All the functions inside the class is known as methods. 
 
 
+//  Input  ,  Output   ,  Debugging
+
 import java.util.Scanner;
 
 public class Main {
@@ -16,8 +18,8 @@ public class Main {
 
 
         // 2->  How to get Input in JAVA
-        
-        Scanner input = new Scanner(System.in);
+        Scanner input = new Scanner (System.in);
+        System.out.println(input.nextLine());
         
     }
 }   
