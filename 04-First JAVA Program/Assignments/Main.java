@@ -1,21 +1,12 @@
-import java.util.Scanner;
+// 1->  In java (Public means this file is accessiible to anywhere at any PC).
+// 2->  In java every file has their own classes.
+// 3->  Class is a main group of just code and properties.
+// Note : All the functions inside the class is known as methods. 
+
 
 public class Main {
-    public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
-
-        // Prompt the user to enter a number
-        System.out.print("Enter a number: ");
-        int number = scanner.nextInt();
-
-        // Check if the number is odd or even
-        if (number % 2 == 0) {
-            System.out.println(number + " is an even number.");
-        } else {
-            System.out.println(number + " is an odd number.");
-        }
-
-        // Close the scanner
-        scanner.close();
+    public static void main(String [] args){
+        System.out.println("Hello World!");
+        System.out.println("Hy My Name is Muhammad Arham");
     }
 }
