@@ -25,7 +25,7 @@ public class IfElse {
             }
         }
         else{
-            System.out.println("You are neither a male nor a female and you are not elligible");
+            System.out.println("You are neither a male nor a female and you are not elligible.");
         }
     }
 }
