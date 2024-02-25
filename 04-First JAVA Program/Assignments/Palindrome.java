@@ -11,7 +11,7 @@
                 System.out.println(reversedPalindrome);
             }
             else{
-                System.out.println("Your number is not Palindrome");
+                System.out.println("Your number is not Palindrome.");
             }
         }
     }
