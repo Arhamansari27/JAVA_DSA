@@ -10,7 +10,8 @@ public class Fiboconic {
         int a = 0;
         int b = 1;
         int n = input.nextInt();
-        for (int i = 0; i <= n; i++) {
+        
+        for (int i = 0; i < n; i++) {
             int c = a+b;
             a = b;
             b =c;
