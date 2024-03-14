@@ -1,5 +1,10 @@
 public class String_method {
     public static void main(String[] args) {
-        System.out.println("This is my Float Method.");
+       String msg = greet();
+       System.out.println(msg);
     }
-}
+    static String greet() {
+        String greeting = "Hello How are you?";
+        return greeting;
+    }
+} 
