@@ -1,9 +1,18 @@
 import java.util.Scanner;
 public class Sum_Method {
     public static void main(String[] args) {
-        Scanner in = new Scanner(System.in);
-        int ans = sumnums();
+        // Scanner in = new Scanner(System.in);
+        // int ans = sumnums();
+        // System.out.println(ans);
+
+        int ans = sum3(20 , 30);
         System.out.println(ans);
+
+    }
+
+    static int sum3 (int a , int b){
+        int sum = a + b;
+        return sum;
     }
     static int sumnums(){
         Scanner in = new Scanner(System.in);
