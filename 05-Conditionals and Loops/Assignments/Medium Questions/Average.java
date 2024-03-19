@@ -12,7 +12,19 @@ public class Average {
         // The formula for average is:
 
         // Average = Sum of all numbers / Count of numbers
-
-      System.out.println("Average Assignment Start");
+        Scanner input = new Scanner(System.in);
+        System.out.println("Enter the number (until you press x)");
+        int sum = 0;
+        int count = 0;
+        while (true) {
+            int number = input.nextInt();
+            if (number == 0) {
+                break;
+            }
+            sum = sum + number;
+            count++;
+        }
+        int avg = sum / count;
+       System.out.println(avg);
     }
 }
