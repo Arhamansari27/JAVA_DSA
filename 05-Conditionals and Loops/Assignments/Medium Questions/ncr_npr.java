@@ -3,9 +3,8 @@ import java.util.*;
 public class ncr_npr {
     public static void main(String[] args) {
 
-        // Ncr 
-
-
+        // Ncr and Npr almost same
+        
         // Scanner in = new Scanner(System.in);
         // System.out.print("Enter the value of n : ");
         // int n = in.nextInt();
@@ -35,6 +34,6 @@ public class ncr_npr {
         // System.out.println( "Your answer is "+ ans);
 
 
-        
+
     }
 }
