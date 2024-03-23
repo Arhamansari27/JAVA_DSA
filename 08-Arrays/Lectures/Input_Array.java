@@ -35,6 +35,7 @@ public class Input_Array {
         }
         System.out.print("Your String is ");
         for (int i = 0; i < str.length; i++) {
+            str[2] = "Ansari";
             System.out.print(str[i] + " ");
         }
     }
