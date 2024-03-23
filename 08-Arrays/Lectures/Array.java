@@ -7,4 +7,4 @@ public class Array {
          arr = new int[5]; // => Initialization and object being created in the heap memory
          System.out.println("Print");
     }
-}
+} 
