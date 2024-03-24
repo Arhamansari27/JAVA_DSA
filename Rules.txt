@@ -1,4 +1,4 @@
-Rules for Data Structure and Algorithm
+Rules for Data Structure and Algorithm are :
 
 
 1 => Consistency is the key to success.
