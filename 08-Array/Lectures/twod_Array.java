@@ -25,7 +25,7 @@ public class twod_Array {
 
         System.out.println((arr2d[0][1]));
 
-        int[][] arr2D = new int[3][];
+        int[][] arr2D = new int[3][]; 
 
         // 2nd Method of input and output
 
