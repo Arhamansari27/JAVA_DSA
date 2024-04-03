@@ -12,3 +12,4 @@
 10. [Containes Duplicate](https://leetcode.com/problems/contains-duplicate/)
 11. [Target Array](https://leetcode.com/problems/create-target-array-in-the-given-order/)
 12. [Plus One](https://leetcode.com/problems/plus-one/)
+13. [Check Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/)
