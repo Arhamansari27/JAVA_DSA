@@ -15,3 +15,19 @@ public class Q12 {
         System.out.println(count);
     }
 }
+
+
+// LeetCode Solution
+
+// class Solution {
+//     public int findNumbers(int[] nums) {
+//         int count = 0;
+//         for(int i = 0; i < nums.length; i++){
+//             int numsdigits = (int)(Math.log10(nums[i]) + 1);
+//             if(numsdigits % 2 == 0){
+//                 count++;
+//             }
+//         }
+//         return count;
+//     }
+// }
