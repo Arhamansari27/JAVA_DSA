@@ -10,4 +10,5 @@
 8. [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)
 9. [Two Sum](https://leetcode.com/problems/two-sum/)
 10. [Containes Duplicate](https://leetcode.com/problems/contains-duplicate/)
-11. [Target Array(https://leetcode.com/problems/create-target-array-in-the-given-order/)]
+11. [Target Array](https://leetcode.com/problems/create-target-array-in-the-given-order/)
+12. [Plus One](https://leetcode.com/problems/plus-one/)
