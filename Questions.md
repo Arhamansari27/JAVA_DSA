@@ -14,4 +14,4 @@
 12. [Plus One](https://leetcode.com/problems/plus-one/)
 13. [Check Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/)
 14. [Numbers-with-even-number-of-digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)
-15. [Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/)
+15. [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/)
