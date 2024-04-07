@@ -40,11 +40,10 @@ public class Two_dArray {
         // }
 
         String [][] stringarr = {
-            { "Muhammad"},
+            {"Muhammad"},
             {"Arham"},
             {"Ansari"}
         };
-
         for (String[] arrraystrings : stringarr) {
             System.out.println(Arrays.toString(arrraystrings));
         }
