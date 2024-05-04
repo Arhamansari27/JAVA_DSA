@@ -36,4 +36,8 @@
 3. [To-Lower-Case](https://leetcode.com/problems/to-lower-case/)
 4. [Shuffle-string](https://leetcode.com/problems/shuffle-string/)
 5. [Check-if-two-string-arrays-are-equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)
+6. [Merge-strings-alternately](https://leetcode.com/problems/merge-strings-alternately/)
 
+## Binary Search
+
+1. [Binary-search](https://leetcode.com/problems/binary-search/)
