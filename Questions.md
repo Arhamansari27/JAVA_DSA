@@ -37,6 +37,7 @@
 4. [Shuffle-string](https://leetcode.com/problems/shuffle-string/)
 5. [Check-if-two-string-arrays-are-equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)
 6. [Merge-strings-alternately](https://leetcode.com/problems/merge-strings-alternately/)
+7. [Length-of-last-word](https://leetcode.com/problems/length-of-last-word/)
 
 ## Binary Search
 
