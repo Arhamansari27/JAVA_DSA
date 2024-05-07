@@ -37,7 +37,10 @@
 4. [Shuffle-string](https://leetcode.com/problems/shuffle-string/)
 5. [Check-if-two-string-arrays-are-equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)
 6. [Merge-strings-alternately](https://leetcode.com/problems/merge-strings-alternately/)
-7. [Length-of-last-word](https://leetcode.com/problems/length-of-last-word/)
+7. [Length-of-last-word](https://leetcode.com/problems/length-of-last-words/)
+8. [Reverse-words-in-a-string](https://leetcode.com/problems/reverse-words-in-a-string-iii/)
+9. [Defanging-an-ip-address](https://leetcode.com/problems/defanging-an-ip-address/)
+10. [Find-the-index-of-the-first-occurrence](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/)
 
 ## Binary Search
 
