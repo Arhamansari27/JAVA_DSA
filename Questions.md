@@ -41,6 +41,7 @@
 8. [Reverse-words-in-a-string](https://leetcode.com/problems/reverse-words-in-a-string-iii/)
 9. [Defanging-an-ip-address](https://leetcode.com/problems/defanging-an-ip-address/)
 10. [Find-the-index-of-the-first-occurrence](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/)
+11. [Multiply-strings](https://leetcode.com/problems/multiply-strings/)
 
 ## Binary Search
 
@@ -49,3 +50,4 @@
 3. [Search-insert-position](https://leetcode.com/problems/search-insert-position/)
 4. [Guess-number-higher-or-lower](https://leetcode.com/problems/guess-number-higher-or-lower/)
 5. [Valid-perfect-square](https://leetcode.com/problems/valid-perfect-square/)
+6. [Swapping-nodes-in-a-linked-list](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/)
