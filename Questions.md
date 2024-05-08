@@ -51,3 +51,7 @@
 4. [Guess-number-higher-or-lower](https://leetcode.com/problems/guess-number-higher-or-lower/)
 5. [Valid-perfect-square](https://leetcode.com/problems/valid-perfect-square/)
 6. [Swapping-nodes-in-a-linked-list](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/)
+
+## Maths
+
+1. [Multiply-strings](https://leetcode.com/problems/multiply-strings/)
