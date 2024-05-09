@@ -21,6 +21,10 @@
 17. [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)
 18. [Longest-consecutive-sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
 19. [Maximum-average-subarray-i](https://leetcode.com/problems/maximum-average-subarray-i/)
+20. [Intersection-of-two-arrays](https://leetcode.com/problems/intersection-of-two-arrays/)
+21. [Two-sum-ii-input-array-is-sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
+22. [Single-element-in-a-sorted-array](https://leetcode.com/problems/single-element-in-a-sorted-array/)
+23. [kth-missing-positive-number](https://leetcode.com/problems/kth-missing-positive-number/)
 
 ## Linked List
 
@@ -58,3 +62,5 @@
 1. [Multiply-strings](https://leetcode.com/problems/multiply-strings/)
 2. [Sqrtx](https://leetcode.com/problems/sqrtx/)
 3. [Valid-perfect-square](https://leetcode.com/problems/valid-perfect-square/)
+4. [Count-primes](https://leetcode.com/problems/count-primes/)
+5. [Count-negative-numbers](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/)
