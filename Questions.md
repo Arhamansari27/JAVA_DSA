@@ -25,6 +25,9 @@
 21. [Two-sum-ii-input-array-is-sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
 22. [Single-element-in-a-sorted-array](https://leetcode.com/problems/single-element-in-a-sorted-array/)
 23. [kth-missing-positive-number](https://leetcode.com/problems/kth-missing-positive-number/)
+24. [Find-minimum](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/)
+25. [Find-minimum](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
+26. [Search](https://leetcode.com/problems/search-in-rotated-sorted-array/)
 
 ## Linked List
 
@@ -55,7 +58,9 @@
 3. [Search-insert-position](https://leetcode.com/problems/search-insert-position/)
 4. [Guess-number-higher-or-lower](https://leetcode.com/problems/guess-number-higher-or-lower/)
 5. [Valid-perfect-square](https://leetcode.com/problems/valid-perfect-square/)
-6. [Find-smallest-letter-greater-than-target](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/)
+6. [Find-minimum-ii](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/)
+7. [Find-minimum](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
+8. [Search](https://leetcode.com/problems/search-in-rotated-sorted-array/)
 
 ## Maths
 
