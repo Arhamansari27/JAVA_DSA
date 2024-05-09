@@ -28,6 +28,7 @@
 2. [Middle-of-the-linked-list](https://leetcode.com/problems/middle-of-the-linked-list/)
 3. [Add-two-numbers](https://leetcode.com/problems/add-two-numbers/)
 4. [Intersection-of-two-linked-lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)
+5. [Swapping-nodes-in-a-linked-list](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/)
 
 ## Strings
 
@@ -50,8 +51,10 @@
 3. [Search-insert-position](https://leetcode.com/problems/search-insert-position/)
 4. [Guess-number-higher-or-lower](https://leetcode.com/problems/guess-number-higher-or-lower/)
 5. [Valid-perfect-square](https://leetcode.com/problems/valid-perfect-square/)
-6. [Swapping-nodes-in-a-linked-list](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/)
+6. [Find-smallest-letter-greater-than-target](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/)
 
 ## Maths
 
 1. [Multiply-strings](https://leetcode.com/problems/multiply-strings/)
+2. [Sqrtx](https://leetcode.com/problems/sqrtx/)
+3. [Valid-perfect-square](https://leetcode.com/problems/valid-perfect-square/)
