@@ -69,3 +69,4 @@
 3. [Valid-perfect-square](https://leetcode.com/problems/valid-perfect-square/)
 4. [Count-primes](https://leetcode.com/problems/count-primes/)
 5. [Count-negative-numbers](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/)
+6. [Powx-n](https://leetcode.com/problems/powx-n/)
