@@ -28,6 +28,8 @@
 24. [Find-minimum](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/)
 25. [Find-minimum](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
 26. [Search](https://leetcode.com/problems/search-in-rotated-sorted-array/)
+27. [Find-all-numbers-disappeared](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)
+28. [Search-a-2d-matrix](https://leetcode.com/problems/search-a-2d-matrix/)
 
 ## Linked List
 
@@ -61,6 +63,8 @@
 6. [Find-minimum-ii](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/)
 7. [Find-minimum](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
 8. [Search](https://leetcode.com/problems/search-in-rotated-sorted-array/)
+9. [Median-of-two-sorted-arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)
+10. [Search-in-a-binary-search-tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)
 
 ## Maths
 
@@ -70,3 +74,7 @@
 4. [Count-primes](https://leetcode.com/problems/count-primes/)
 5. [Count-negative-numbers](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/)
 6. [Powx-n](https://leetcode.com/problems/powx-n/)
+
+## Stack
+
+1. [Baseball-game](https://leetcode.com/problems/baseball-game/)
