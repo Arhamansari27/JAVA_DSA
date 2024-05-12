@@ -29,7 +29,9 @@
 25. [Find-minimum](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
 26. [Search](https://leetcode.com/problems/search-in-rotated-sorted-array/)
 27. [Find-all-numbers-disappeared](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)
-28. [Search-a-2d-matrix](https://leetcode.com/problems/search-a-2d-matrix/)
+28. [Search-a-2d-matrix](https://leetcode.com/problems/search-a-2d-matrix/) 
+29. [Third-maximum-number](https://leetcode.com/problems/third-maximum-number/)
+30. [Minimum-common-value](https://leetcode.com/problems/minimum-common-value/)
 
 ## Linked List
 
@@ -52,6 +54,8 @@
 9. [Defanging-an-ip-address](https://leetcode.com/problems/defanging-an-ip-address/)
 10. [Find-the-index-of-the-first-occurrence](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/)
 11. [Multiply-strings](https://leetcode.com/problems/multiply-strings/)
+12. [Shifting-letters](https://leetcode.com/problems/shifting-letters/)
+13. [Reverse-prefix-of-word](https://leetcode.com/problems/reverse-prefix-of-word/)
 
 ## Binary Search
 
@@ -78,3 +82,4 @@
 ## Stack
 
 1. [Baseball-game](https://leetcode.com/problems/baseball-game/)
+2. [Reverse-polish-notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)
