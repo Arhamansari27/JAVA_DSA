@@ -1,6 +1,5 @@
 # Questions I Done :
-
-## Arrays 
+\
 
 1. [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/)
 2. [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)
@@ -32,6 +31,7 @@
 28. [Search-a-2d-matrix](https://leetcode.com/problems/search-a-2d-matrix/) 
 29. [Third-maximum-number](https://leetcode.com/problems/third-maximum-number/)
 30. [Minimum-common-value](https://leetcode.com/problems/minimum-common-value/)
+31. [Majority-element/](https://leetcode.com/problems/majority-element/)
 
 ## Linked List
 
@@ -56,6 +56,7 @@
 11. [Multiply-strings](https://leetcode.com/problems/multiply-strings/)
 12. [Shifting-letters](https://leetcode.com/problems/shifting-letters/)
 13. [Reverse-prefix-of-word](https://leetcode.com/problems/reverse-prefix-of-word/)
+14. [Number-of-strings-that-appear-as-substrings-in-word](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/)
 
 ## Binary Search
 
@@ -83,3 +84,4 @@
 
 1. [Baseball-game](https://leetcode.com/problems/baseball-game/)
 2. [Reverse-polish-notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)
+3. [Remove-all-adjacent-duplicates-in-string](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)
