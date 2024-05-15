@@ -1,5 +1,6 @@
 # Questions I Done :
-\
+
+## Arrays
 
 1. [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/)
 2. [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)
@@ -31,7 +32,8 @@
 28. [Search-a-2d-matrix](https://leetcode.com/problems/search-a-2d-matrix/) 
 29. [Third-maximum-number](https://leetcode.com/problems/third-maximum-number/)
 30. [Minimum-common-value](https://leetcode.com/problems/minimum-common-value/)
-31. [Majority-element/](https://leetcode.com/problems/majority-element/)
+31. [Majority-element](https://leetcode.com/problems/majority-element/)
+32. [Maximum-sum-with-exactly-k-elements](https://leetcode.com/problems/maximum-sum-with-exactly-k-elements/)
 
 ## Linked List
 
@@ -57,6 +59,8 @@
 12. [Shifting-letters](https://leetcode.com/problems/shifting-letters/)
 13. [Reverse-prefix-of-word](https://leetcode.com/problems/reverse-prefix-of-word/)
 14. [Number-of-strings-that-appear-as-substrings-in-word](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/)
+15. [Detect-capital](https://leetcode.com/problems/detect-capital/)
+16. [First-unique-character-in-a-string](https://leetcode.com/problems/first-unique-character-in-a-string/)
 
 ## Binary Search
 
