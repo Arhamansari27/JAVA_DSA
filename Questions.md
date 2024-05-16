@@ -34,6 +34,8 @@
 30. [Minimum-common-value](https://leetcode.com/problems/minimum-common-value/)
 31. [Majority-element](https://leetcode.com/problems/majority-element/)
 32. [Maximum-sum-with-exactly-k-elements](https://leetcode.com/problems/maximum-sum-with-exactly-k-elements/)
+33. [Find-target-indices-after-sorting-array](https://leetcode.com/problems/find-target-indices-after-sorting-array/)
+34. [Single-number](https://leetcode.com/problems/single-number/)
 
 ## Linked List
 
@@ -61,6 +63,9 @@
 14. [Number-of-strings-that-appear-as-substrings-in-word](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/)
 15. [Detect-capital](https://leetcode.com/problems/detect-capital/)
 16. [First-unique-character-in-a-string](https://leetcode.com/problems/first-unique-character-in-a-string/)
+17. [Jewels-and-stones](https://leetcode.com/problems/jewels-and-stones/)
+18. [First-letter-to-appear-twice](https://leetcode.com/problems/first-letter-to-appear-twice/)
+19. [Count-the-number-of-special-characters-i](https://leetcode.com/problems/count-the-number-of-special-characters-i/)
 
 ## Binary Search
 
