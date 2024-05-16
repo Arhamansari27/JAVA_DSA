@@ -32,7 +32,7 @@
 28. [Search-a-2d-matrix](https://leetcode.com/problems/search-a-2d-matrix/) 
 29. [Third-maximum-number](https://leetcode.com/problems/third-maximum-number/)
 30. [Minimum-common-value](https://leetcode.com/problems/minimum-common-value/)
-31. [Majority-element](https://leetcode.com/problems/majority-element/)
+31. [Majority-element](https://leetcode.com/problems/majority-element)
 32. [Maximum-sum-with-exactly-k-elements](https://leetcode.com/problems/maximum-sum-with-exactly-k-elements/)
 33. [Find-target-indices-after-sorting-array](https://leetcode.com/problems/find-target-indices-after-sorting-array/)
 34. [Single-number](https://leetcode.com/problems/single-number/)
