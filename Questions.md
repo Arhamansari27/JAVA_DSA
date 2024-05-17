@@ -36,6 +36,11 @@
 32. [Maximum-sum-with-exactly-k-elements](https://leetcode.com/problems/maximum-sum-with-exactly-k-elements/)
 33. [Find-target-indices-after-sorting-array](https://leetcode.com/problems/find-target-indices-after-sorting-array/)
 34. [Single-number](https://leetcode.com/problems/single-number/)
+35. [Search-in-rotated-sorted-array-ii](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)
+36. [Find-first-and-last-position-of-element-in-sorted-array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
+37. [Find-all-duplicates-in-an-array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)
+38. [Find-the-duplicate-number](https://leetcode.com/problems/find-the-duplicate-number/)
+39. [Single-Number-ii](https://leetcode.com/problems/single-number-ii/)
 
 ## Linked List
 
