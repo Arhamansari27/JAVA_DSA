@@ -41,6 +41,7 @@
 37. [Find-all-duplicates-in-an-array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)
 38. [Find-the-duplicate-number](https://leetcode.com/problems/find-the-duplicate-number/)
 39. [Single-Number-ii](https://leetcode.com/problems/single-number-ii/)
+40. [Intersection-of-multiple-arrays](https://leetcode.com/problems/intersection-of-multiple-arrays/)
 
 ## Linked List
 
@@ -71,6 +72,9 @@
 17. [Jewels-and-stones](https://leetcode.com/problems/jewels-and-stones/)
 18. [First-letter-to-appear-twice](https://leetcode.com/problems/first-letter-to-appear-twice/)
 19. [Count-the-number-of-special-characters-i](https://leetcode.com/problems/count-the-number-of-special-characters-i/)
+20. [Longest-substring-without-repeating-characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+21. [Greatest-common-divisor-of-strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/)
+22. [Rotate-string](https://leetcode.com/problems/rotate-string/)
 
 ## Binary Search
 
