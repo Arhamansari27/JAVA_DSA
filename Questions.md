@@ -42,6 +42,10 @@
 38. [Find-the-duplicate-number](https://leetcode.com/problems/find-the-duplicate-number/)
 39. [Single-Number-ii](https://leetcode.com/problems/single-number-ii/)
 40. [Intersection-of-multiple-arrays](https://leetcode.com/problems/intersection-of-multiple-arrays/)
+41. [Kth-smallest-element-in-a-sorted-matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)
+42. [Sort-colors](https://leetcode.com/problems/sort-colors/)
+43. [Find-the-difference-of-two-arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/)
+44. [Sign-of-the-product-of-an-array](https://leetcode.com/problems/sign-of-the-product-of-an-array/)
 
 ## Linked List
 
@@ -97,6 +101,7 @@
 4. [Count-primes](https://leetcode.com/problems/count-primes/)
 5. [Count-negative-numbers](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/)
 6. [Powx-n](https://leetcode.com/problems/powx-n/)
+7. [Type-of-triangle](https://leetcode.com/problems/type-of-triangle/)
 
 ## Stack
 
