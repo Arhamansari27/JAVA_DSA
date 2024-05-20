@@ -46,6 +46,7 @@
 42. [Sort-colors](https://leetcode.com/problems/sort-colors/)
 43. [Find-the-difference-of-two-arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/)
 44. [Sign-of-the-product-of-an-array](https://leetcode.com/problems/sign-of-the-product-of-an-array/)
+45. [Find-the-integer-added-to-array-i](https://leetcode.com/problems/find-the-integer-added-to-array-i/)
 
 ## Linked List
 
@@ -79,6 +80,8 @@
 20. [Longest-substring-without-repeating-characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 21. [Greatest-common-divisor-of-strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/)
 22. [Rotate-string](https://leetcode.com/problems/rotate-string/)
+23. [Capitalize-the-title](https://leetcode.com/problems/capitalize-the-title/)
+24. [Find-the-difference](https://leetcode.com/problems/find-the-difference/)
 
 ## Binary Search
 
@@ -102,9 +105,11 @@
 5. [Count-negative-numbers](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/)
 6. [Powx-n](https://leetcode.com/problems/powx-n/)
 7. [Type-of-triangle](https://leetcode.com/problems/type-of-triangle/)
+8. [Palindrome-number](https://leetcode.com/problems/palindrome-number/)
 
 ## Stack
 
 1. [Baseball-game](https://leetcode.com/problems/baseball-game/)
 2. [Reverse-polish-notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)
-3. [Remove-all-adjacent-duplicates-in-string](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)
+3. [Removing-stars-from-a-string](https://leetcode.com/problems/removing-stars-from-a-string/)
+4. [Remove-all-adjacent-duplicates-in-string](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)
