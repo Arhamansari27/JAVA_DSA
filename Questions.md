@@ -81,7 +81,7 @@
 21. [Greatest-common-divisor-of-strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/)
 22. [Rotate-string](https://leetcode.com/problems/rotate-string/)
 23. [Capitalize-the-title](https://leetcode.com/problems/capitalize-the-title/)
-24. [Find-the-difference](https://leetcode.com/problems/find-the-difference/)
+24. [Find-the-difference](https://leetcode.com/problems/find-the-difference/)   
 
 ## Binary Search
 
@@ -106,6 +106,7 @@
 6. [Powx-n](https://leetcode.com/problems/powx-n/)
 7. [Type-of-triangle](https://leetcode.com/problems/type-of-triangle/)
 8. [Palindrome-number](https://leetcode.com/problems/palindrome-number/)
+9. [Add-digits](https://leetcode.com/problems/add-digits/)
 
 ## Stack
 
