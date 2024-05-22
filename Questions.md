@@ -47,6 +47,8 @@
 43. [Find-the-difference-of-two-arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/)
 44. [Sign-of-the-product-of-an-array](https://leetcode.com/problems/sign-of-the-product-of-an-array/)
 45. [Find-the-integer-added-to-array-i](https://leetcode.com/problems/find-the-integer-added-to-array-i/)
+46. [Unique-number-of-occurrences](https://leetcode.com/problems/unique-number-of-occurrences/)
+47. [Remove-element](https://leetcode.com/problems/remove-element/)
 
 ## Linked List
 
@@ -55,6 +57,7 @@
 3. [Add-two-numbers](https://leetcode.com/problems/add-two-numbers/)
 4. [Intersection-of-two-linked-lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)
 5. [Swapping-nodes-in-a-linked-list](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/)
+6. [Remove-linked-list-elements](https://leetcode.com/problems/remove-linked-list-elements/)
 
 ## Strings
 
