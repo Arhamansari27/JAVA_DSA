@@ -58,6 +58,7 @@
 4. [Intersection-of-two-linked-lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)
 5. [Swapping-nodes-in-a-linked-list](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/)
 6. [Remove-linked-list-elements](https://leetcode.com/problems/remove-linked-list-elements/)
+7. [Remove-duplicates-from-sorted-list](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
 
 ## Strings
 
@@ -117,3 +118,8 @@
 2. [Reverse-polish-notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)
 3. [Removing-stars-from-a-string](https://leetcode.com/problems/removing-stars-from-a-string/)
 4. [Remove-all-adjacent-duplicates-in-string](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)
+
+## Trees
+
+4. [Symmetric-tree](https://leetcode.com/problems/symmetric-tree/)
+
