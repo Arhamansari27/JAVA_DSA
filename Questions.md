@@ -121,5 +121,6 @@
 
 ## Trees
 
-4. [Symmetric-tree](https://leetcode.com/problems/symmetric-tree/)
+1. [Symmetric-tree](https://leetcode.com/problems/symmetric-tree/)
+2. [Symmetric-tree](https://leetcode.com/problems/invert-binary-tree/description/)
 
