@@ -86,6 +86,8 @@
 22. [Rotate-string](https://leetcode.com/problems/rotate-string/)
 23. [Capitalize-the-title](https://leetcode.com/problems/capitalize-the-title/)
 24. [Find-the-difference](https://leetcode.com/problems/find-the-difference/)   
+25. [Number-of-segments-in-a-string](https://leetcode.com/problems/number-of-segments-in-a-string/)   
+26. [Sort-vowels-in-a-string](https://leetcode.com/problems/sort-vowels-in-a-string/)   
 
 ## Binary Search
 
@@ -111,6 +113,7 @@
 7. [Type-of-triangle](https://leetcode.com/problems/type-of-triangle/)
 8. [Palindrome-number](https://leetcode.com/problems/palindrome-number/)
 9. [Add-digits](https://leetcode.com/problems/add-digits/)
+10. [Divisor-game](https://leetcode.com/problems/divisor-game/)
 
 ## Stack
 
@@ -118,9 +121,10 @@
 2. [Reverse-polish-notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)
 3. [Removing-stars-from-a-string](https://leetcode.com/problems/removing-stars-from-a-string/)
 4. [Remove-all-adjacent-duplicates-in-string](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)
+5. [Decode-string](https://leetcode.com/problems/decode-string/)
 
 ## Trees
 
 1. [Symmetric-tree](https://leetcode.com/problems/symmetric-tree/)
-2. [Symmetric-tree](https://leetcode.com/problems/invert-binary-tree/description/)
+2. [Invert-binary-tree](https://leetcode.com/problems/invert-binary-tree/)
 
