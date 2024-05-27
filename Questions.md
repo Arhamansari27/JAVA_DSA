@@ -123,6 +123,7 @@
 3. [Removing-stars-from-a-string](https://leetcode.com/problems/removing-stars-from-a-string/)
 4. [Remove-all-adjacent-duplicates-in-string](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)
 5. [Decode-string](https://leetcode.com/problems/decode-string/)
+6. [Delete-characters-to-make-fancy-string](https://leetcode.com/problems/delete-characters-to-make-fancy-string/)
 
 ## Trees
 
