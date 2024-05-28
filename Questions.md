@@ -49,6 +49,8 @@
 45. [Find-the-integer-added-to-array-i](https://leetcode.com/problems/find-the-integer-added-to-array-i/)
 46. [Unique-number-of-occurrences](https://leetcode.com/problems/unique-number-of-occurrences/)
 47. [Remove-element](https://leetcode.com/problems/remove-element/)
+48. [Jump-game](https://leetcode.com/problems/jump-game/)
+49. [Apple-redistribution-into-boxes](https://leetcode.com/problems/apple-redistribution-into-boxes/)
 
 ## Linked List
 
