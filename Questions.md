@@ -117,6 +117,7 @@
 8. [Palindrome-number](https://leetcode.com/problems/palindrome-number/)
 9. [Add-digits](https://leetcode.com/problems/add-digits/)
 10. [Divisor-game](https://leetcode.com/problems/divisor-game/)
+11. [Bulb-switcher](https://leetcode.com/problems/bulb-switcher/)
 
 ## Stack
 
