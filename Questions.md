@@ -52,6 +52,7 @@
 48. [Jump-game](https://leetcode.com/problems/jump-game/)
 49. [Apple-redistribution-into-boxes](https://leetcode.com/problems/apple-redistribution-into-boxes/)
 50. [Single-number-iii](https://leetcode.com/problems/single-number-iii/)
+51. [Largest-positive-integer-that-exists-with-its-negative](https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/)
 
 ## Linked List
 
@@ -120,6 +121,7 @@
 9. [Add-digits](https://leetcode.com/problems/add-digits/)
 10. [Divisor-game](https://leetcode.com/problems/divisor-game/)
 11. [Bulb-switcher](https://leetcode.com/problems/bulb-switcher/)
+12. [Count-of-matches-in-tournament](https://leetcode.com/problems/count-of-matches-in-tournament/)
 
 ## Stack
 
