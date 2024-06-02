@@ -53,7 +53,9 @@
 49. [Apple-redistribution-into-boxes](https://leetcode.com/problems/apple-redistribution-into-boxes/)
 50. [Single-number-iii](https://leetcode.com/problems/single-number-iii/)
 51. [Sort-an-array](https://leetcode.com/problems/sort-an-array/)
-52. [Largest-positive-integer-that-exists-with-its-negative](https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/)
+52. [Find-lucky-integer-in-an-array](https://leetcode.com/problems/find-lucky-integer-in-an-array/)
+53. [Largest-positive-integer-that-exists-with-its-negative](https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/)
+54. [Missing-number](https://leetcode.com/problems/missing-number/)
 
 ## Linked List
 
@@ -124,6 +126,7 @@
 10. [Divisor-game](https://leetcode.com/problems/divisor-game/)
 11. [Bulb-switcher](https://leetcode.com/problems/bulb-switcher/)
 12. [Count-of-matches-in-tournament](https://leetcode.com/problems/count-of-matches-in-tournament/)
+13. [Perfect-number](https://leetcode.com/problems/perfect-number/)
 
 ## Stack
 
