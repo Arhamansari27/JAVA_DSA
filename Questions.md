@@ -98,6 +98,8 @@
 27. [Reverse-vowels-of-a-string](https://leetcode.com/problems/reverse-vowels-of-a-string/)   
 28. [Minimize-string-length](https://leetcode.com/problems/minimize-string-length/)   
 29. [Score-of-a-string](https://leetcode.com/problems/score-of-a-string/)   
+30. [Reverse-string](https://leetcode.com/problems/reverse-string/)   
+31. [Determine-if-string-halves-are-alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/)   
 
 ## Binary Search
 
