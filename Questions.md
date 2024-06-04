@@ -56,6 +56,9 @@
 52. [Find-lucky-integer-in-an-array](https://leetcode.com/problems/find-lucky-integer-in-an-array/)
 53. [Largest-positive-integer-that-exists-with-its-negative](https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/)
 54. [Missing-number](https://leetcode.com/problems/missing-number/)
+55. [Special-array-i](https://leetcode.com/problems/special-array-i/)
+56. [Check-if-a-string-is-an-acronym-of-words](https://leetcode.com/problems/check-if-a-string-is-an-acronym-of-words/)
+57. [Peak-index-in-a-mountain-array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)
 
 ## Linked List
 
@@ -100,6 +103,9 @@
 29. [Score-of-a-string](https://leetcode.com/problems/score-of-a-string/)   
 30. [Reverse-string](https://leetcode.com/problems/reverse-string/)   
 31. [Determine-if-string-halves-are-alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/)   
+32. [Find-first-palindromic-string-in-the-array](https://leetcode.com/problems/find-first-palindromic-string-in-the-array/)   
+33. [Find-words-containing-character](https://leetcode.com/problems/find-words-containing-character/)   
+34. [Is-subsequence](https://leetcode.com/problems/is-subsequence/)   
 
 ## Binary Search
 
@@ -113,6 +119,9 @@
 8. [Search](https://leetcode.com/problems/search-in-rotated-sorted-array/)
 9. [Median-of-two-sorted-arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)
 10. [Search-in-a-binary-search-tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)
+
+## Two Pointers
+1. [Append-characters-to-string-to-make-subsequence](https://leetcode.com/problems/append-characters-to-string-to-make-subsequence/)
 
 ## Maths
 
