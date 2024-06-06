@@ -61,6 +61,8 @@
 57. [Peak-index-in-a-mountain-array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)
 58. [Find-common-characters](https://leetcode.com/problems/find-common-characters)
 59. [Sort-array-by-parity](https://leetcode.com/problems/sort-array-by-parity/)
+60. [Sort-array-by-parity-ii](https://leetcode.com/problems/sort-array-by-parity-ii/)
+61. [Count-number-of-pairs-with-absolute-difference-k](https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/)
 
 ## Linked List
 
