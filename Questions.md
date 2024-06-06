@@ -59,6 +59,8 @@
 55. [Special-array-i](https://leetcode.com/problems/special-array-i/)
 56. [Check-if-a-string-is-an-acronym-of-words](https://leetcode.com/problems/check-if-a-string-is-an-acronym-of-words/)
 57. [Peak-index-in-a-mountain-array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)
+58. [Find-common-characters](https://leetcode.com/problems/find-common-characters)
+59. [Sort-array-by-parity](https://leetcode.com/problems/sort-array-by-parity/)
 
 ## Linked List
 
@@ -106,6 +108,8 @@
 32. [Find-first-palindromic-string-in-the-array](https://leetcode.com/problems/find-first-palindromic-string-in-the-array/)   
 33. [Find-words-containing-character](https://leetcode.com/problems/find-words-containing-character/)   
 34. [Is-subsequence](https://leetcode.com/problems/is-subsequence/)   
+34. [Longest-palindrome](https://leetcode.com/problems/longest-palindrome/)   
+34. [Valid-word](https://leetcode.com/problems/valid-word/)   
 
 ## Binary Search
 
@@ -122,6 +126,7 @@
 
 ## Two Pointers
 1. [Append-characters-to-string-to-make-subsequence](https://leetcode.com/problems/append-characters-to-string-to-make-subsequence/)
+1. [Boats-to-save-people](https://leetcode.com/problems/boats-to-save-people/)
 
 ## Maths
 
