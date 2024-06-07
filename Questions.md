@@ -62,7 +62,8 @@
 58. [Find-common-characters](https://leetcode.com/problems/find-common-characters)
 59. [Sort-array-by-parity](https://leetcode.com/problems/sort-array-by-parity/)
 60. [Sort-array-by-parity-ii](https://leetcode.com/problems/sort-array-by-parity-ii/)
-61. [Count-number-of-pairs-with-absolute-difference-k](https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/)
+61. [Find-missing-and-repeated-values](https://leetcode.com/problems/find-missing-and-repeated-values/)
+62. [Count-number-of-pairs-with-absolute-difference-k](https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/)
 
 ## Linked List
 
@@ -112,6 +113,7 @@
 34. [Is-subsequence](https://leetcode.com/problems/is-subsequence/)   
 34. [Longest-palindrome](https://leetcode.com/problems/longest-palindrome/)   
 34. [Valid-word](https://leetcode.com/problems/valid-word/)   
+34. [Replace-words](https://leetcode.com/problems/replace-words/)   
 
 ## Binary Search
 
