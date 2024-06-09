@@ -157,6 +157,7 @@
 5. [Decode-string](https://leetcode.com/problems/decode-string/)
 6. [Delete-characters-to-make-fancy-string](https://leetcode.com/problems/delete-characters-to-make-fancy-string/)
 7. [Backspace-string-compare](https://leetcode.com/problems/backspace-string-compare/)
+7. [Make-the-string-great](https://leetcode.com/problems/make-the-string-great/)
 
 ## Trees
 
