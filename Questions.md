@@ -64,6 +64,10 @@
 60. [Sort-array-by-parity-ii](https://leetcode.com/problems/sort-array-by-parity-ii/)
 61. [Find-missing-and-repeated-values](https://leetcode.com/problems/find-missing-and-repeated-values/)
 62. [Count-number-of-pairs-with-absolute-difference-k](https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/)
+63. [Flipping-an-image](https://leetcode.com/problems/flipping-an-image/)
+64. [Matrix-diagonal-sum](https://leetcode.com/problems/matrix-diagonal-sum/)
+65. [Problems/height-checker](https://leetcode.com/problems/height-checker/)
+66. [Number-of-distinct-averages](https://leetcode.com/problems/number-of-distinct-averages/)
 
 ## Linked List
 
