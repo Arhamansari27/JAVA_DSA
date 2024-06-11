@@ -68,6 +68,9 @@
 64. [Matrix-diagonal-sum](https://leetcode.com/problems/matrix-diagonal-sum/)
 65. [Problems/height-checker](https://leetcode.com/problems/height-checker/)
 66. [Number-of-distinct-averages](https://leetcode.com/problems/number-of-distinct-averages/)
+67. [Relative-sort-array](https://leetcode.com/problems/relative-sort-array/)
+68. [Kth-largest-element-in-an-array](https://leetcode.com/problems/kth-largest-element-in-an-array/)
+69. [Set-matrix-zeroes](https://leetcode.com/problems/set-matrix-zeroes/)
 
 ## Linked List
 
