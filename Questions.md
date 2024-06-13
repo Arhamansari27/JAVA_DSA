@@ -71,6 +71,7 @@
 67. [Relative-sort-array](https://leetcode.com/problems/relative-sort-array/)
 68. [Kth-largest-element-in-an-array](https://leetcode.com/problems/kth-largest-element-in-an-array/)
 69. [Set-matrix-zeroes](https://leetcode.com/problems/set-matrix-zeroes/)
+70. [Minimum-number-of-moves-to-seat-everyone](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/)
 
 ## Linked List
 
