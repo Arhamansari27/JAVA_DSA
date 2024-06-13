@@ -173,4 +173,5 @@
 2. [Invert-binary-tree](https://leetcode.com/problems/invert-binary-tree/)
 3. [Sum-root-to-leaf-numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)
 4. [Maximum-depth-of-binary-tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
+5. [Minimum-depth-of-binary-tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)
 
