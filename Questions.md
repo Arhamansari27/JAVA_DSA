@@ -72,6 +72,8 @@
 68. [Kth-largest-element-in-an-array](https://leetcode.com/problems/kth-largest-element-in-an-array/)
 69. [Set-matrix-zeroes](https://leetcode.com/problems/set-matrix-zeroes/)
 70. [Minimum-number-of-moves-to-seat-everyone](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/)
+71. [Array-partition](https://leetcode.com/problems/array-partition/)
+72. [Minimum-number-of-chairs-in-a-waiting-room](https://leetcode.com/problems/minimum-number-of-chairs-in-a-waiting-room/)
 
 ## Linked List
 
@@ -155,6 +157,8 @@
 11. [Bulb-switcher](https://leetcode.com/problems/bulb-switcher/)
 12. [Count-of-matches-in-tournament](https://leetcode.com/problems/count-of-matches-in-tournament/)
 13. [Perfect-number](https://leetcode.com/problems/perfect-number/)
+14. [Find-the-pivot-integer](https://leetcode.com/problems/find-the-pivot-integer/)
+15. [Find-pivot-index](https://leetcode.com/problems/find-pivot-index/)
 
 ## Stack
 
