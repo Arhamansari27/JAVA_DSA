@@ -52,6 +52,28 @@
 48. [Jump-game](https://leetcode.com/problems/jump-game/)
 49. [Apple-redistribution-into-boxes](https://leetcode.com/problems/apple-redistribution-into-boxes/)
 50. [Single-number-iii](https://leetcode.com/problems/single-number-iii/)
+51. [Sort-an-array](https://leetcode.com/problems/sort-an-array/)
+52. [Find-lucky-integer-in-an-array](https://leetcode.com/problems/find-lucky-integer-in-an-array/)
+53. [Largest-positive-integer-that-exists-with-its-negative](https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/)
+54. [Missing-number](https://leetcode.com/problems/missing-number/)
+55. [Special-array-i](https://leetcode.com/problems/special-array-i/)
+56. [Check-if-a-string-is-an-acronym-of-words](https://leetcode.com/problems/check-if-a-string-is-an-acronym-of-words/)
+57. [Peak-index-in-a-mountain-array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)
+58. [Find-common-characters](https://leetcode.com/problems/find-common-characters)
+59. [Sort-array-by-parity](https://leetcode.com/problems/sort-array-by-parity/)
+60. [Sort-array-by-parity-ii](https://leetcode.com/problems/sort-array-by-parity-ii/)
+61. [Find-missing-and-repeated-values](https://leetcode.com/problems/find-missing-and-repeated-values/)
+62. [Count-number-of-pairs-with-absolute-difference-k](https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/)
+63. [Flipping-an-image](https://leetcode.com/problems/flipping-an-image/)
+64. [Matrix-diagonal-sum](https://leetcode.com/problems/matrix-diagonal-sum/)
+65. [Problems/height-checker](https://leetcode.com/problems/height-checker/)
+66. [Number-of-distinct-averages](https://leetcode.com/problems/number-of-distinct-averages/)
+67. [Relative-sort-array](https://leetcode.com/problems/relative-sort-array/)
+68. [Kth-largest-element-in-an-array](https://leetcode.com/problems/kth-largest-element-in-an-array/)
+69. [Set-matrix-zeroes](https://leetcode.com/problems/set-matrix-zeroes/)
+70. [Minimum-number-of-moves-to-seat-everyone](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/)
+71. [Array-partition](https://leetcode.com/problems/array-partition/)
+72. [Minimum-number-of-chairs-in-a-waiting-room](https://leetcode.com/problems/minimum-number-of-chairs-in-a-waiting-room/)
 
 ## Linked List
 
@@ -93,6 +115,15 @@
 26. [Sort-vowels-in-a-string](https://leetcode.com/problems/sort-vowels-in-a-string/)   
 27. [Reverse-vowels-of-a-string](https://leetcode.com/problems/reverse-vowels-of-a-string/)   
 28. [Minimize-string-length](https://leetcode.com/problems/minimize-string-length/)   
+29. [Score-of-a-string](https://leetcode.com/problems/score-of-a-string/)   
+30. [Reverse-string](https://leetcode.com/problems/reverse-string/)   
+31. [Determine-if-string-halves-are-alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/)   
+32. [Find-first-palindromic-string-in-the-array](https://leetcode.com/problems/find-first-palindromic-string-in-the-array/)   
+33. [Find-words-containing-character](https://leetcode.com/problems/find-words-containing-character/)   
+34. [Is-subsequence](https://leetcode.com/problems/is-subsequence/)   
+34. [Longest-palindrome](https://leetcode.com/problems/longest-palindrome/)   
+34. [Valid-word](https://leetcode.com/problems/valid-word/)   
+34. [Replace-words](https://leetcode.com/problems/replace-words/)   
 
 ## Binary Search
 
@@ -107,6 +138,10 @@
 9. [Median-of-two-sorted-arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)
 10. [Search-in-a-binary-search-tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)
 
+## Two Pointers
+1. [Append-characters-to-string-to-make-subsequence](https://leetcode.com/problems/append-characters-to-string-to-make-subsequence/)
+1. [Boats-to-save-people](https://leetcode.com/problems/boats-to-save-people/)
+
 ## Maths
 
 1. [Multiply-strings](https://leetcode.com/problems/multiply-strings/)
@@ -120,6 +155,10 @@
 9. [Add-digits](https://leetcode.com/problems/add-digits/)
 10. [Divisor-game](https://leetcode.com/problems/divisor-game/)
 11. [Bulb-switcher](https://leetcode.com/problems/bulb-switcher/)
+12. [Count-of-matches-in-tournament](https://leetcode.com/problems/count-of-matches-in-tournament/)
+13. [Perfect-number](https://leetcode.com/problems/perfect-number/)
+14. [Find-the-pivot-integer](https://leetcode.com/problems/find-the-pivot-integer/)
+15. [Find-pivot-index](https://leetcode.com/problems/find-pivot-index/)
 
 ## Stack
 
@@ -130,10 +169,13 @@
 5. [Decode-string](https://leetcode.com/problems/decode-string/)
 6. [Delete-characters-to-make-fancy-string](https://leetcode.com/problems/delete-characters-to-make-fancy-string/)
 7. [Backspace-string-compare](https://leetcode.com/problems/backspace-string-compare/)
+7. [Make-the-string-great](https://leetcode.com/problems/make-the-string-great/)
 
 ## Trees
 
 1. [Symmetric-tree](https://leetcode.com/problems/symmetric-tree/)
 2. [Invert-binary-tree](https://leetcode.com/problems/invert-binary-tree/)
 3. [Sum-root-to-leaf-numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)
+4. [Maximum-depth-of-binary-tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
+5. [Minimum-depth-of-binary-tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)
 
